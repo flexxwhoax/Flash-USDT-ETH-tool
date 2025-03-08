@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) Ethereum Flasher
+Copyright (c) Flash tool for USDT/USDC/DAI tokens generation on Ethereum 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
