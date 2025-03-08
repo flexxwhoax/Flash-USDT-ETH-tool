@@ -4,7 +4,7 @@ Tool is a standalone Windows application developed for educational purposes to s
 
 Key Features
 
-Portable Executable: No installation or Python setup required—download and run the .exe directly.
+Portable Executable: No installation or Python setup required download and run the .exe directly.
 Intuitive User Interface: A clean and straightforward GUI for entering wallet private keys, recipient addresses, and transaction details.
 
 Supported Tokens: Facilitates sending USDT, USDC, and DAI with automatic decimal precision handling.
